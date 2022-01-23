@@ -21,7 +21,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'welcome')->name('home');
+Route::view('/', 'pages.index')->name('pages.index');
+Route::view('rolunk', 'pages.about')->name('pages.about');
+Route::view('rendeszvenyek', 'pages.events')->name('pages.events');
+Route::view('rendezveny', 'pages.event')->name('pages.event');
+
 
 Route::middleware('guest')->group(function () {
     Route::get('login', Login::class)
