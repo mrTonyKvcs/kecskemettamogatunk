@@ -21,7 +21,7 @@
 					@foreach($events as $event)
 					<li class="blog-post clearfix">
 						<div class="post-media">
-							<a href="news-single.html" class="post-img">
+							<a href="{{ route('pages.event', $event['id']) }}" class="post-img">
 								<img style="width: 100%; height: auto;" src="img/events/{{$event['id']}}/1.jpg" alt="{{ $event['title'] }}"/>
 							</a>
 						</div><!-- .post-media end -->
