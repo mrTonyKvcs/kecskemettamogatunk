@@ -14,7 +14,7 @@
 							<div class="navbar-header">
 								<div class="logo">
 									<a href="{{ route('pages.index') }}">
-										<img src="img/logo.png" alt="Trucking Transportation and Logistics HTML Template"/>
+										<img src="/img/logo.png" alt="Trucking Transportation and Logistics HTML Template"/>
 									</a>
 								</div><!-- .logo end -->
 							</div><!-- .navbar-header start -->

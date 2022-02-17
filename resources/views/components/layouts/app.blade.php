@@ -9,16 +9,16 @@
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 			<!-- Stylesheets -->
-			<link rel="stylesheet" href="css/bootstrap.css"/><!-- bootstrap grid -->
-			<link rel='stylesheet' href='owl-carousel/owl.carousel.css'/><!-- Client carousel -->
+			<link rel="stylesheet" href="/css/bootstrap.css"/><!-- bootstrap grid -->
+			<link rel='stylesheet' href='/owl-carousel/owl.carousel.css'/><!-- Client carousel -->
 
-			<link rel="stylesheet" href="masterslider/style/masterslider.css" /><!-- Master slider css -->
+			<link rel="stylesheet" href="/masterslider/style/masterslider.css" /><!-- Master slider css -->
 			<link rel="stylesheet" href="masterslider/skins/default/style.css" /><!-- Master slider default skin -->
-			<link rel="stylesheet" href="css/magnific-popup.css" /><!-- Lightbox styles -->
-			<link rel="stylesheet" href="css/style.css"/><!-- template styles -->
-			<link rel="stylesheet" href="css/color-default.css"/><!-- template main color -->
-			<link rel="stylesheet" href="css/retina.css"/><!-- retina ready styles -->
-			<link rel="stylesheet" href="css/responsive.css"/><!-- responsive styles -->
+			<link rel="stylesheet" href="/css/magnific-popup.css" /><!-- Lightbox styles -->
+			<link rel="stylesheet" href="/css/style.css"/><!-- template styles -->
+			<link rel="stylesheet" href="/css/color-default.css"/><!-- template main color -->
+			<link rel="stylesheet" href="/css/retina.css"/><!-- retina ready styles -->
+			<link rel="stylesheet" href="/css/responsive.css"/><!-- responsive styles -->
 
 			<!-- Google Web fonts -->
 			<link href='http://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800' rel='stylesheet' type='text/css'>
@@ -34,17 +34,17 @@
 
 		<x-sections.footer />
 
-		<script src="js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
-		<script src="js/bootstrap.min.js"></script><!-- .bootstrap script -->
-		<script src="js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->  
+		<script src="/js/jquery-2.1.4.min.js"></script><!-- jQuery library -->
+		<script src="/js/bootstrap.min.js"></script><!-- .bootstrap script -->
+		<script src="/js/jquery.srcipts.min.js"></script><!-- modernizr, retina, stellar for parallax -->  
 
-        <script src="js/jquery.magnific-popup.min.js"></script><!-- used for image lightbox -->
-        <script src="js/portfolio.js"></script><!-- for portfolio -->
-		<script src="owl-carousel/owl.carousel.min.js"></script><!-- Carousels script -->
-		<script src="masterslider/masterslider.min.js"></script><!-- Master slider main js -->
-		<script src="js/jquery.matchHeight-min.js"></script><!-- for columns with background image -->
-		<script src="js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
-		<script src="js/include.js"></script><!-- custom js functions -->
+        <script src="/js/jquery.magnific-popup.min.js"></script><!-- used for image lightbox -->
+        <script src="/js/portfolio.js"></script><!-- for portfolio -->
+		<script src="/owl-carousel/owl.carousel.min.js"></script><!-- Carousels script -->
+		<script src="/masterslider/masterslider.min.js"></script><!-- Master slider main js -->
+		<script src="/js/jquery.matchHeight-min.js"></script><!-- for columns with background image -->
+		<script src="/js/jquery.dlmenu.min.js"></script><!-- for responsive menu -->
+		<script src="/js/include.js"></script><!-- custom js functions -->
 
 		<script>
 			/* <![CDATA[ */

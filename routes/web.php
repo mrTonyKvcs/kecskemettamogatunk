@@ -23,8 +23,21 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'pages.index')->name('pages.index');
 Route::view('rolunk', 'pages.about')->name('pages.about');
-Route::view('rendeszvenyek', 'pages.events')->name('pages.events');
-Route::view('rendezveny', 'pages.event')->name('pages.event');
+Route::get('rendeszvenyek', function() {
+	$events = array_reverse(config('events'));
+	return view('pages.events', [
+		'events' => $events
+	]);
+})->name('pages.events');
+
+Route::get('rendezvenyek/{id}', function($id) {
+	$key = array_search($id, array_column(config('events'), 'id'));
+	$event = config('events')[$key];
+
+	return view('pages.event', [
+		'event' => $event
+	]);
+})->name('pages.event');
 
 
 Route::middleware('guest')->group(function () {
