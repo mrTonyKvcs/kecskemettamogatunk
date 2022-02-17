@@ -98,4 +98,15 @@ Közreműködött:DIAN RÓBERT gitárművész',
 		'hero_image' => 1,
 		'images' => 5,
 	],
+	[
+		'id' => 10,
+		'date' => '2021-10-21',
+		'day' => '21',
+		'month' => 'október',
+		'title' => 'KECSKEMÉTI SZALON 10',
+		'text' => 'A KECSKEMÉTI SZALON programsorozatunk zárásaként CSURGÓ ERIKA grafikus és ANGELO MINUTI szobrászművész alkotásai mutattuk be, 2021 október 21.én. 
+Vendégünk volt: DOLHAI ATTILA  Jászai Mari-díjas színművész. Az esten olasz dallamok csendültek fel, a közönség nagy örömére! A  sikeres eseménysorozatot KALMÁR FERENC rendkívüli és meghatalmazott nagykövet, miniszteri biztos méltatta.',
+		'hero_image' => 1,
+		'images' => 5,
+	],
 ];
