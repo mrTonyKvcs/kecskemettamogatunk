@@ -13,7 +13,7 @@
 
 		<div class="row mb-30 flex justify-center">
 			<div class="col-md-12 col-sm-12">
-				<p style="display: flex; text-align: center; line-height: 45px; font-size: 16px; color: #444">Az ITT VAGYUNK, TÁMOGATUNK egyesületünk megalakulása óta elsősorban a kultúra területén,
+				<p style="display: flex; text-align: center; line-height: 24px; font-size: 18px; color: #444">Az ITT VAGYUNK, TÁMOGATUNK egyesületünk megalakulása óta elsősorban a kultúra területén,
 azon belül is a városukban és a megyénkben élő és alkotó képzőművészek részére biztosít bemutatkozási
 lehetőséget. Valamennyi programjainkat Kecskemét Város Önkormányzatával közösen rendeztük.
 Feladatunknak érezzük, hogy olyan csoportokat célozzunk meg, akik nem igen látogattak tárlatokat,
