@@ -24,17 +24,17 @@
 							<h3>Kapcsolat</h3>
 						</div>
 
-						<address>
-							6000 Kecskemét <br />
-							Teszt utca 16.
-						</address>
+						{{-- <address> --}}
+						{{-- 	6000 Kecskemét <br /> --}}
+						{{-- 	Teszt utca 16. --}}
+						{{-- </address> --}}
 
 						<span class="text-big">
-							+36 70 456 7311
+							+36 20 958 71 41
 						</span>
 						<br />
 
-						<a href="mailto:">info@hudrakft.com</a>
+						<a href="mailto:asteiner2010@gmail.com">asteiner2010@gmail.com</a>
 						<br />
 						<ul class="footer-social-icons">
 							<li><a href="https://www.facebook.com/alkotocsoport/?ref=page_internal" class="fa fa-facebook"></a></li>
