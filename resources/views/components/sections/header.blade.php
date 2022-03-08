@@ -40,7 +40,7 @@
 
 									<li><a href="{{ route('pages.about') }}">{{ __('Rólunk') }}</a></li>
 
-									<li><a href="">{{ __('Rendezvények') }}</a></li>
+									<li><a href="{{ route('pages.events') }}">{{ __('Rendezvények') }}</a></li>
 									</ul><!-- .dl-menu end -->
 								</div><!-- #dl-menu end -->
 
