@@ -130,4 +130,14 @@ Vendégünk volt: DOLHAI ATTILA  Jászai Mari-díjas színművész. Az esten ola
 		'hero_image' => 2,
 		'images' => 6,
 	],
+	[
+		'id' => 13,
+		'date' => '2022-04-21',
+		'day' => '21',
+		'month' => 'április',
+		'title' => 'KECSKEMÉTI SZALON 2 programsorozat',
+		'text' => '2022.04.21-én, a A Nemzeti Együttműködési Alap támogatásával, elindítottuk  a KECSKEMÉTI SZALON 2 programsorozatunkat a SPALETTÁBAN...  Nyitó eseményünk vendége: BAHGET ISKANDER, Kossuth díjas fotóművész volt.  A kéthetente csütörtökön 17 órakor jelentkező, 10 alkalomból álló eseménysorozatot Prof.Dr. Sztachó- Pekáry István önkormányzati képviselő, az Örökségvédelmi Bizottság elnöke köszöntötte.  Megnyitotta: Dr. Farkas Gábor Ybl díjas építész Közreműködött: Dian Róbert gitárművész.',
+		'hero_image' => 1,
+		'images' => 4,
+	],
 ];

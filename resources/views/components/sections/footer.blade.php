@@ -34,7 +34,7 @@
 						</span>
 						<br />
 
-						<a href="mailto:asteiner2010@gmail.com">asteiner2010@gmail.com</a>
+						<a href="mailto:ittvagyunk.tamogatunk@gmail.com">ittvagyunk.tamogatunk@gmail.com</a>
 						<br />
 						<ul class="footer-social-icons">
 							<li><a href="https://www.facebook.com/alkotocsoport/?ref=page_internal" class="fa fa-facebook"></a></li>
