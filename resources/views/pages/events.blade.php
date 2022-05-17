@@ -19,7 +19,7 @@
 			<div class="row" style="display: flex; justify-content: center;">
 				<ul class="col-md-9 blog-posts post-list">
 					@foreach($events as $event)
-					<li class="blog-post clearfix">
+					<li class="clearfix blog-post">
 						<div class="post-media">
 							<a href="{{ route('pages.event', $event['id']) }}" class="post-img">
 								<img style="width: 100%; height: auto;" src="img/events/{{$event['id']}}/1.jpg" alt="{{ $event['title'] }}"/>
@@ -32,7 +32,7 @@
 						</div><!-- .post-date end -->
 
 						<div class="post-body">
-							<a href="news-single.html">
+							<a href="{{ route('pages.event', $event['id']) }}">
 								<h3>{{ $event['title'] }}</h3>
 							</a>
 
@@ -49,7 +49,7 @@
 				@endforeach
 
 
-					{{-- <li class="pagination clearfix"> --}}
+					{{-- <li class="clearfix pagination"> --}}
 					{{-- 	<ul> --}}
 					{{-- 		<li class="active"> --}}
 					{{-- 			<a href="#">1</a> --}}

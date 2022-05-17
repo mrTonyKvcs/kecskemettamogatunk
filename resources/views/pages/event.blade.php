@@ -14,7 +14,7 @@
 		<div class="container">
 			<div class="row" style="display: flex; justify-content: center;">
 				<div class="col-md-9 blog-posts post-single">
-					<div class="blog-post clearfix">
+					<div class="clearfix blog-post">
 						<div class="post-media">
 							<a href="news-single.html" class="post-img">
 								<img src="/img/events/{{$event['id']}}/1.jpg" alt="Trucking Transportation and Logistics HTML template"/>
@@ -27,7 +27,7 @@
 						</div><!-- .post-date end -->
 
 						<div class="post-body">
-							<a href="news-single.html">
+							<a href="{{ route('pages.event', $event['id']) }}">
 								<h2>{{ $event['title'] }}</h2>
 							</a>
 
@@ -58,7 +58,7 @@
 	<div class="page-content">
 		<div class="container">
 			<div class="row">
-				<ul class="vehicle-gallery clearfix">
+				<ul class="clearfix vehicle-gallery">
 					<!-- .gallery-item end -->
 
 					@for($i = 0; $i < $event['images']; $i++)
