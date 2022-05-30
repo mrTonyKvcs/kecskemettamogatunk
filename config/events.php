@@ -150,4 +150,15 @@ Vendégünk volt: DOLHAI ATTILA  Jászai Mari-díjas színművész. Az esten ola
         'hero_image' => 2,
         'images' => 5,
     ],
+    [
+        'id' => 15,
+        'date' => '2022-05-26',
+        'day' => '26',
+        'month' => 'május',
+        'title' => 'KECSKEMÉTI SZALON2 3. est',
+        'text' => '2022. május 26-án, a SPALETTA  ÉTTEREM és SÖRHÁZBAN,  a KECSKEMÉTI SZALON2 programsorozatunk  3. estjén,  SZEPES RITA alkotásait mutatta be: BÓNA EDIT egyesületünk elnökségi tagja.
+        Vendégünk volt: PAÁL  ATTILA színművész, a Kecskeméti Katona József Nemzeti Színház tagja.',
+        'hero_image' => 2,
+        'images' => 5,
+    ],
 ];
