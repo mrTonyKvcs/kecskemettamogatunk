@@ -161,4 +161,14 @@ Vendégünk volt: DOLHAI ATTILA  Jászai Mari-díjas színművész. Az esten ola
         'hero_image' => 2,
         'images' => 5,
     ],
+    [
+        'id' => 16,
+        'date' => '2022-06-09',
+        'day' => '09',
+        'month' => 'június',
+        'title' => 'KECSKEMÉTI SZALON2 4. eseménye',
+        'text' => '2022. június 9-én, a SPALETTA ÉTTEREM és SÖRHÁZBAN, a KECSKEMÉTI SZALON programsorozatunk 4. estjén, VILLÁM ZSUZSA alkotásait láthatta a közönség.  Bemutatta: BÓNA EDIT egyesületünk elnökségi tagja.  Vendégünk volt: Herczeg-Kis Bálint, a TV2 Exatlon műsor 3.évadának férfi győztese!  Közreműködtek: Miklósné Faragó Csilla (fuvola) Dr.Szabóné Baunoch Ágnes (zongora)',
+        'hero_image' => 1,
+        'images' => 5,
+    ],
 ];
